@@ -5,4 +5,4 @@ git init <directory>
 git add <file> = unstaged -> staged
 git commit = staged -> commit
 
-nu andring hejdo!
+nu andring h
