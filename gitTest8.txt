@@ -1,0 +1,14 @@
+Git
+o---o---o---o---o---o---o master
+clean | unstaged | staged | commit 
+git init <directory>
+git add <file> = unstaged -> staged
+git commit = staged -> commit
+
+test 2
+test 3
+test 4
+test 5
+test 6
+test 7
+test 8
