@@ -5,4 +5,5 @@ git init <directory>
 git add <file> = unstaged -> staged
 git commit = staged -> commit
 
-Jag vinner lolololololol
+Jag vinner lolololololol nu andring haha
+
