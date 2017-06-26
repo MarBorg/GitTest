@@ -1,7 +1,7 @@
 Git
 o---o---o---o---o---o---o master
 clean | unstaged | staged | commit 
-git init <directory>
+git init <directory> ****
 git add <file> = unstaged -> staged
 git commit = staged -> commit
 
